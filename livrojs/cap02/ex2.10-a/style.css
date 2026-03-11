@@ -1,0 +1,21 @@
+.containerIn{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.inMed{
+    display: flex;
+    height: 15px;
+    align-items: center;
+}
+
+.inPreco{
+    display: flex;
+    height: 15px;
+    align-items: center;
+}
+
+button{
+    width: 150px;
+}

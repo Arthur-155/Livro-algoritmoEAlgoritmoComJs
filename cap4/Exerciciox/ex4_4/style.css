@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 form{
     display: flex;
 }
@@ -26,3 +27,33 @@ img{
     width: 150px;
 }
 
+=======
+form{
+    display: flex;
+}
+
+img{
+    margin-right: 20px;
+    width: 350px;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.horas{
+    display: flex;
+    align-items: center;
+}
+
+.horas input{
+    width: 70px;
+}
+
+.btn{
+    width: 150px;
+}
+
+>>>>>>> 3111f2b4a49f1f856c6cd8077744b7d5e7bcee5c

@@ -1,0 +1,40 @@
+.inputs{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.input-filme{
+    display: flex;
+    height: 15px;
+    align-items: center;
+}
+
+.nomeDoFilme{
+    border-radius: 5px;
+    margin: 5px;
+    border: solid 1px black;
+}
+
+.input-duracao-filme{
+    display: flex;
+    height: 15px;
+    align-items: center;
+}
+
+.duracaoDoFilme{
+    border-radius: 5px;
+    margin: 5px;
+    border: solid 1px black;
+}
+
+#convertendo{
+    border-radius: 6px;
+    border: solid 1px black;
+    padding: 5px;
+}
+
+#convertendo:hover{
+    background-color: aquamarine;
+    cursor: pointer;
+}

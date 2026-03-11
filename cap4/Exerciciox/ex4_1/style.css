@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .container{
     display: flex;
     flex-direction: column;
@@ -24,4 +25,32 @@
 
 .button{
     width: 250px;
+=======
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.nameAluno{
+    display: flex;
+    height: 15px;
+    align-items: center;
+}
+
+.fNote{
+    display: flex;
+    height: 15px;
+    align-items: center;
+}
+
+.sNote{
+    display: flex;
+    height: 15px;
+    align-items: center;
+}
+
+.button{
+    width: 250px;
+>>>>>>> 3111f2b4a49f1f856c6cd8077744b7d5e7bcee5c
 }
