@@ -1,0 +1,17 @@
+form{
+    display: flex;
+    gap: 30px;
+}
+
+.num{
+    display: flex;
+    align-items: center;
+}
+
+input{
+    margin-left: 15px;
+}
+
+.btn{
+    cursor: pointer;
+}

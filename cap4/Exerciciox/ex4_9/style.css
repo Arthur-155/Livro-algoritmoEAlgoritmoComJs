@@ -1,0 +1,19 @@
+form{
+    display: flex;
+    gap: 30px;
+}
+
+img{
+    width: 350px;
+}
+
+
+.info .value{
+    display: flex;
+    align-items: center;
+}
+
+.btn input{
+    width: 200px;
+}
+

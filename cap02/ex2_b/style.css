@@ -1,0 +1,19 @@
+.inputs{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.veiculo, .preco{
+    display: flex;
+    height: 15px;
+    align-items: center;
+}
+
+input{
+    margin: 10px;
+}
+
+.btn{
+    cursor: pointer;
+}

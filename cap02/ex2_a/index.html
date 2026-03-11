@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./index.css">
+    <title>ex2_a</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="title">
+            <h1>Cine JS: Filmes em cartaz</h1>
+        </div>
+        <div class="inputs">
+            <div class="input-filme">
+                <p>Titulo do Filme: </p>
+                <input type="text" name="nome-filme" id="nome-filme" class="nomeDoFilme">
+            </div>
+            <div class="input-duracao-filme">
+                <p>Duração (Min)</p>
+                <input type="number" class="duracaoDoFilme" id="duracao-filme">
+            </div>
+            <div class="btn">
+                <button id="convertendo">Converter em Horas e Minutos</button>
+            </div>
+            <div class="resposta-js">
+                <h1 id="respostaNomeDoFilme"></h1>
+                <h4 id="respostaDuracaoDoFilme"></h4>
+            </div>
+        </div>
+    </div>
+    <script src="./index.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,21 @@
+.inputs{
+    flex-direction: column;
+    display: flex;
+    gap: 20px;
+}
+
+.product {
+    display: flex;
+    height: 15px;
+    align-items: center;
+}
+
+.preco {
+    display: flex;
+    height: 15px;
+    align-items: center;
+}
+
+.btn{
+    width: 150px;
+}

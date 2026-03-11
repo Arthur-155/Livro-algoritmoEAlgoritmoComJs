@@ -1,0 +1,36 @@
+html{
+    height: 100%;
+    overflow: hidden;
+}
+
+body{
+    display: flex;
+    width: 100%;
+
+}
+
+main{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+img{
+    border-radius: 50%;
+}
+
+input{
+    margin-left: 10px;
+}
+
+.name,.heigh,.sex {
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+}
+
+#btn{
+    padding: 10px;
+    border-radius: 5px;
+    border: solid 1px black;
+}

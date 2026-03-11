@@ -1,0 +1,17 @@
+form{
+    display: flex;
+    gap: 40px;
+}
+
+.velPermitida, .velContudor{
+    display: flex;
+    align-items: center;
+}
+
+input{
+    margin-left: 10px;
+}
+
+.btn{
+    cursor: pointer;
+}

@@ -1,0 +1,28 @@
+form{
+    display: flex;
+}
+
+img{
+    margin-right: 20px;
+    width: 350px;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.horas{
+    display: flex;
+    align-items: center;
+}
+
+.horas input{
+    width: 70px;
+}
+
+.btn{
+    width: 200px;
+}
+
